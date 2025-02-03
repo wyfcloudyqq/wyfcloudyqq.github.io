@@ -9,7 +9,7 @@ theme = 'LoveIt'
     languageCode = "en"
     languageName = "English"
     hasCJKLanguage = false
-    title = 'Cyber Security Laboratory @ CQU'
+    title = 'Jiangsu Ocean University AI Laboratory @ JOU'
     paginate = 12
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -103,7 +103,7 @@ theme = 'LoveIt'
     languageCode = "zh-CN"
     languageName = "简体中文"
     hasCJKLanguage = true
-    title = '重庆大学网络安全实验室'
+    title = '江苏海洋大学AI实验室'
     paginate = 12
     [languages.zh-cn.menu]
       [[languages.zh-cn.menu.main]]

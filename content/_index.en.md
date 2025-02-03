@@ -1,4 +1,4 @@
-# Welcome to the Cyber Security Laboratory
+# Welcome to the Jiangsu Ocean University AI Laboratory
 
 <p style="text-align:justify">
 We are a dynamic research group at Jiangsu Ocean University. Our goal is to explore and solve potential security problems in the field of artificial intelligence and computers in the context of the rapid development of computer technology in the 21st century. 

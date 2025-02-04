@@ -77,7 +77,7 @@ theme = 'LoveIt'
         weight = 8
     [languages.en.params]
       # site description
-      description = "The website of Cyber Security Laboratory @ CQU"
+      description = "Jiangsu Ocean University AI Laboratory @ JOU"
       # site keywords
       keywords = ["Cyber Security Laboratory", "CQU", "AI"]
       # App icon config

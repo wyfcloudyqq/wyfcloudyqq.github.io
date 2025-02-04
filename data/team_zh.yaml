@@ -14,12 +14,13 @@
   position: director
   cv: https://jsjxy.jou.edu.cn/zhangjiangerenjianligengxin20241014.pdf
 
-- name: 王宁
-  photo: NingWang.webp
-  info: 教授
-  email: nwang5 [at] cqu [dot] edu [dot] cn
-  biography: 重庆大学“泓深青年学者”，IEEE Member。北京邮电大学博士，美国乔治梅森大学博士后研究员。研究方向包括（但不局限于）物理层安全，信息物理系统安全及隐私保护，射频指纹，以及机器学习和无人机安全等。相关研究成果先后发表于IEEE Networks Magazine, IEEE Transactions on Information Forensics and Security, IEEE Transactions on Wireless Communication, IEEE International Conference on Computer Communications, IEEE Internet of Things Journal等国际主流期刊及会议。受邀为多个国际期刊会议审稿人，包括：IEEE TIFS, IEEE TWC, IEEE TMC, IEEE TCOM, IEEE TVT, IEEE TCCN, IEEE Wireless Communication magazine, IEEE IoT Journal, IEEE INFOCOM, IEEE CNS, IEEE GLOBECOM等。
-  position: member
+- name: 袁冬青
+  photo: YuanDongQing.webp
+  info: 教授，硕士生导师
+  email: cumtydq [at] 163 [dot] com
+  biography: 主持完成国家自然科学基金青年基金项目1项；中国博士后基金面上项目1项；江苏省自然科学基金青年基金项目1项；江苏省高校自然科学面上项目1项；连云港市“海燕计划”项目1项；与企业合作项目金额200余万元；以第一作者在《光谱学与光谱分析》、《Chinese Physics Letter》、《Optik》、《Lasers in engineering》、《Optica applicata》等学术期刊上以第一作者发表SCI收录论文18篇。获得连云港市“321”人才计划称号，连云港市优秀学术成果二等奖，申请专利十余项，香港科技大学访问学者。
+  position: teacher
+  cv: https://ss.jou.edu.cn/info/1322/2264.htm
 
 - name: 郭尚伟
   photo: ShangweiGuo.webp

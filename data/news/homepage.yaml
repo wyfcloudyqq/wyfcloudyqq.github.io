@@ -1,7 +1,7 @@
 # 英文主页展示的新闻
 en:
-  - title: Two paper accepted by ACM MM (<b>CCF A</b>)! Congrats to Hangcheng!
-    date: 2022-6
+  - title: One paper accepted by IOT (<b>CCF C</b>)! Congrats to Zhemin Sun!
+    date: 2025-3
     icon: 🎉
 
   - title: One paper accepted by TCSVT! Congrats!
@@ -62,8 +62,8 @@ en:
 
 # 中文主页展示的新闻
 zh:
-  - title: 两篇文章被ACM MM接收(<b>CCF A</b>)! 恭喜航呈!
-    date: 2022-6
+  - title: 一篇文章被IOT接收(<b>CCF C</b>)! 恭喜孙哲民!
+    date: 2025-3
     icon: 🎉
   - title: 一篇文章被TMM(<b>CCF B</b>)接收! 恭喜!
     date: 2022-6

@@ -6,6 +6,6 @@ lightgallery: true
 ---
 
 ## 实验室地址
-重庆市高新区大学城南路55号重庆大学虎溪校区信息技术科研楼B栋610
+江苏省连云港市海州区苍梧路59号江苏海洋大学苍梧校区计算机楼407
 
-![Contact](/contact/map.png)
+![Contact](/contact/JOUJOUmap.png)

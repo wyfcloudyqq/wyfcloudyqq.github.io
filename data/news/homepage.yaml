@@ -62,12 +62,16 @@ en:
 
 # 中文主页展示的新闻
 zh:
-  - title: 一篇文章被Sesnsors Journal接收(<b>SCI 二区</b>)! 恭喜高原!
+  - title: 一篇文章被Sesnsors Journal接收(<b>SCI 二区</b>)! 恭喜高原师兄!
     date: 2025-3
     icon: 🎉
 
-  - title: 一篇文章被IOT接收(<b>CCF C</b>)! 恭喜孙哲民!
+  - title: 一篇文章被IOT接收(<b>CCF C</b>)! 恭喜孙哲民师兄!
     date: 2025-3
+    icon: 🎉
+
+  - title: 一篇文章被IJRNC接收(<b>CCF C</b>)! 恭喜朱雨师姐!
+    date: 2025-2
     icon: 🎉
 
   - title: 一篇文章被TMM(<b>CCF B</b>)接收! 恭喜!

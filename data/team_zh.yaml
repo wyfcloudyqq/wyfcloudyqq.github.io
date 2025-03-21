@@ -106,58 +106,62 @@
   interests: 多媒体安全
   position: Ph.D.
 
-- name: 曾梽芮
-  interests: 人工智能安全, 自然语言处理安全
+- name: 孙哲民
+  interests: 无人系统安全
   position: Master
 
-- name: 李涵
-  interests: 多媒体安全, 人工智能安全
+- name: 高原
+  interests: 无人系统优化
   position: Master
 
-- name: 秦贞
-  interests: 人工智能安全
+- name: 夏雨
+  interests: 人工智能算法
   position: Master
 
-- name: 张旭
-  interests: 人工智能安全
+- name: 蒋朝伟
+  interests: 人工智能算法
   position: Master
 
-- name: 谢春龙
-  interests: 人工智能安全, 自然语言处理安全
+- name: 谈名名
+  interests: 信息物理系统应用
   position: Master
 
-- name: 段霁轩
-  interests: 新一代网络与物理层安全，大数据安全与隐私保护
+- name: 李天培
+  interests: 信息物理系统安全
   position: Master
 
-- name: 肖心瑶
-  interests: 人工智能安全
+- name: 程强
+  interests: 信息物理系统安全
   position: Master
 
-- name: 费楚钦
-  interests: 新一代网络与物理层安全
+- name: 安洁瑶
+  interests: 信息物理系统安全
   position: Master
 
-- name: 魏薏桥
-  interests: 新一代网络与物理层安全
+- name: 邬云飞
+  interests: 无人系统
   position: Master
 
-- name: 王浩
-  interests: 人工智能安全
+- name: 豆中婕
+  interests: 隐私保护技术
   position: Master
 
-- name: 田孟涵
-  interests:  新一代网络与物理层安全，大数据安全与隐私保护
+- name: 吕康胜
+  interests:  人工智能算法
   position: Master
 
-- name: 姜泽
-  interests:  应用密码学, 大数据安全与隐私保护
+- name: 袁亮
+  interests:  无人系统
   position: Master
 
-- name: 赵志超
-  interests: 人工智能安全
+- name: 何苗荣
+  interests: 智慧渔业
   position: Master
 
-- name: 方香宜
-  interests: 应用密码学, 大数据安全与隐私保护
+- name: 刘旋
+  interests: 电网安全控制
+  position: Master
+
+  name: 张乃骞
+  interests: 电网安全优化
   position: Master
